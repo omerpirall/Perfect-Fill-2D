@@ -10,6 +10,7 @@ Hold to fill the cup perfectly and earn stars!
 - Cozy color palette and satisfying sound design  
 
 <img width="300" height="462" alt="image" src="https://github.com/user-attachments/assets/cea02e1a-11fe-486c-aed7-5d32ac61e8d0" />
+
 ---
 
 ### 🧠 Tech Stack
